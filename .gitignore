@@ -1,0 +1,18 @@
+# Ignore virtual environments
+venv/
+.env/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore model weights or datasets (optional)
+*.pt
+*.weights
+*.onnx
+*.h5
+
+# Ignore OS and editor files
+.DS_Store
+.vscode/
