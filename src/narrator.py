@@ -1,5 +1,5 @@
 """
-Main runner for AI Object & Scene Narrator (Lite)
+Main runner for AI Object & Scene Narrator
 - Webcam capture
 - YOLOv8 detection (ultralytics)
 - Tesseract OCR

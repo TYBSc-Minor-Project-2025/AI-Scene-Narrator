@@ -1,4 +1,4 @@
-# config.py - project configuration constants
+
 
 MODEL_NAME = 'yolov8n.pt'   # small & fast model
 CONF_THRESHOLD = 0.35
